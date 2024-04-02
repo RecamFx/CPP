@@ -12,6 +12,7 @@
 <h1 align = "center">🤙Aclaraciones</h1>
 
 1. Los comentarios con ```//?``` significa lo que va a imprimir la consola (es para que no andes ejecutando)
+2. Para comprimir un archivo en linux se usa ```g++ archivo.cpp``` y ```./a.out```
 
 
 <h1 align = "center">🚀Empezamos</h1>
