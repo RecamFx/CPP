@@ -3,7 +3,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Curso+de+C%2B%2B!;Curso+completo!;Recursos+necesarios+en+este+repositorio!;%40RecamFx">
 </p>
-<a href = "https://i.imgur.com/g0gJwve.jpeg"><img src = "https://i.imgur.com/fh2RRSH.jpeg" width = "100%"></a>
+<a href = "https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src = "https://i.imgur.com/g0gJwve.jpeg" width = "100%"></a>
 
 <h1 align = "center">⚙️Requerimientos</h1>
 
