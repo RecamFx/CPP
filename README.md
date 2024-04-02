@@ -12,7 +12,8 @@
 <h1 align = "center">🤙Aclaraciones</h1>
 
 1. Los comentarios con ```//?``` significa lo que va a imprimir la consola (es para que no andes ejecutando)
-2. Para comprimir un archivo en linux se usa ```g++ archivo.cpp``` y ```./a.out```
+2. Para compilar y ejecutar un archivo en linux se usa ```g++ archivo.cpp``` y ```./a.out```
+3. Ahora, en windows se usa ```g++ archivo.cpp - o nombreDelEjecutable``` y ```archivoDelEjecutable.exe```
 
 
 <h1 align = "center">🚀Empezamos</h1>
