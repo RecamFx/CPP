@@ -1,4 +1,6 @@
 // Estructura basica
+// Cada vez que escribamos algo debemos cerrarlo con un punto y coma;
+
 // Se compone por la libreria iostream, que nos facilita el uso de la consola
 
 // Usamos #include para incluir una libreria

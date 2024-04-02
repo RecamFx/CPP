@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/Camilo/Documents/Programacion/Cursos/CPP",
-      "program": "c:/Users/Camilo/Documents/Programacion/Cursos/CPP/build/Debug/outDebug",
+      "cwd": "c:/Users/Camilo/Documents/Programacion/Cursos/CPP/Basico",
+      "program": "c:/Users/Camilo/Documents/Programacion/Cursos/CPP/Basico/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
